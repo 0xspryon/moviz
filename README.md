@@ -136,6 +136,6 @@ Project Link: [https://github.com/iPR0D1G1/moviz](https://github.com/iPR0D1G1/mo
 [license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
 [license-url]: https://choosealicense.com/licenses/mit
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: www.linkedin.com/in/yonga-spring-128814127
+[linkedin-url]: https://www.linkedin.com/in/yonga-spring-128814127
 [product-screenshot]:
 https://github.com/iPR0D1G1/moviz/blob/master/screenshot.png
